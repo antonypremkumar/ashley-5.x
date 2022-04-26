@@ -1,0 +1,3 @@
+matrices/EigenMatrix/EigenMatrix.C
+
+LIB = $(FOAM_USER_LIBBIN)/libEigenMatrix
